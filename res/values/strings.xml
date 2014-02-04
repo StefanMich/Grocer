@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Grocer</string>
+    <string name="title_section1">Section 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Menu_SortAlpha">Sort Alphabetically</string>
+    <string name="title_activity_main">Grocer</string>
+    <string name="AddButton">Add</string>
+    <string name="AddButtonText">New</string>
+    <string name="AddItems">Add Items</string>
+    <string name="DeleteItems">Delete Items</string>
+    <string name="Checkout">Checkout</string>
+    <string name="title_second">Add item</string>
+    <string name="SearchBarHint">Search</string>
+    <color name="transparent">#80FFFFFF</color>
+    <string name="Menu_SortFrequency">Sort By Frequency</string>
+
+</resources>
