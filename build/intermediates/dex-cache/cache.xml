@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Stefan\Google Drev\Programmering\Java\Android\Grocer\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="612846c9857077a039b533718f72db3bc041d389">
+        <dex dex="C:\Users\Stefan\Google Drev\Programmering\Java\Android\Grocer\build\intermediates\pre-dexed\debug\android-support-v4-9031617564d642e2b253a2470401aff089fc4f5d.jar" />
+    </item>
+
+</items>

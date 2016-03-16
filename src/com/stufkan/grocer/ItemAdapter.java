@@ -114,8 +114,6 @@ public class ItemAdapter extends ArrayAdapter<Item> implements Filterable {
         protected FilterResults performFiltering(CharSequence prefix) {
             // Initiate our results object
 
-            Log.d("perform","data før" + data.toString());
-
             FilterResults results = new FilterResults();
             // If the adapter array is empty, check the actual items array and use it
             if (mOriginalValues == null) {

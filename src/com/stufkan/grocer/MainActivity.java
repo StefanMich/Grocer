@@ -2,7 +2,7 @@ package com.stufkan.grocer;
 
 /*
  * TODO
- * New -> tilføj til indkøbsliste
+ * New -> tilfoej til indkoebsliste
  * search -> select -> ny search giver forkert index
  * liste markering + scroll giver weird index 
  * 

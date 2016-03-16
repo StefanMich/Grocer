@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_sortAlpha"
+        android:title="@string/Menu_SortAlpha"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+        <item android:id="@+id/menu_SortFrequency"
+        android:title="@string/Menu_SortFrequency"
+        android:orderInCategory="100"
+        android:showAsAction="never" />        
+</menu>
+<!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/menu/second.xml -->

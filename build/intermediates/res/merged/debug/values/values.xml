@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/Colors.xml -->
+    <eat-comment/>
+    <color name="black">#f000</color>
+    <color name="blue">#f00f</color>
+    <color name="green">#f0f0</color>
+    <color name="red">#ff00</color>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="transparent">#80FFFFFF</color>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/Colors.xml -->
+    <eat-comment/>
+    <color name="white">#ffff</color>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="listViewMargins">10dp</dimen>
+    <dimen name="listViewTextSize">15sp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="AddButton">Add</string>
+    <string name="AddButtonText">New</string>
+    <string name="AddItems">Add Items</string>
+    <string name="Checkout">Checkout</string>
+    <string name="DeleteItems">Delete Items</string>
+    <string name="Menu_SortAlpha">Sort Alphabetically</string>
+    <string name="Menu_SortFrequency">Sort By Frequency</string>
+    <string name="SearchBarHint">Search</string>
+    <string name="app_name">Grocer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Grocer</string>
+    <string name="title_second">Add item</string>
+    <string name="title_section1">Section 1</string>
+    <!-- From: file:/C:/Users/Stefan/Google%20Drev/Programmering/Java/Android/Grocer/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
